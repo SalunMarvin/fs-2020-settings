@@ -2,15 +2,15 @@
 Settings for FS2020 in VR
 
 ## System Configuration
-CPU: Intel Core i9 11980HK
+**CPU:** Intel Core i9 11980HK
 
-Motherboard: Intel Z590
+**Motherboard:** Intel Z590
 
-Memory: 32GB DDR4 3200MHz
+**Memory:** 32GB DDR4 3200MHz
 
-GPU: NVIDIA GeForce RTX 3070
+**GPU:** NVIDIA GeForce RTX 3070
 
-Storage: 1TB M2 NVME SSD
+**Storage:** 1TB M2 NVME SSD
 
 ## VR
 Meta Quest 2
@@ -67,3 +67,6 @@ N/A
 
 **Visible HUD:** None
 
+## Microsoft Flight Simulator 2020 configurations
+
+N/A
