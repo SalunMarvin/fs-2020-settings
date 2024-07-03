@@ -16,7 +16,8 @@ Settings for FS2020 in VR
 Meta Quest 2
 
 ## Meta Quest Link configurations
-N/A
+Refresh Rate: 72Hz
+Render resolution: 1.0x (4128x2112)
 
 ## Oculus Debug Tool configuration
 **Pixels per display pixel override:** 0
